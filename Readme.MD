@@ -12,4 +12,4 @@ The Metrics are:
 By evaluating a Process model with these metrics, we obtain a balanced perspective on the Complexity & Understandability of the model. 
 
 
-![Pipeline for now](ETC/Pipeline_31032023_Compressed.png)
+![Process Model Measurement](FLOW.png)
