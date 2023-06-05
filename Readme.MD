@@ -21,4 +21,6 @@ On simulating these Metrics, a combined numeric graph can be generated as follow
 
 A link to ProFIT: https://github.com/itmo-escience/ProFIT
 
+Currently, these metrics are in the IPYNB format, they are being ported into Library-style files & will be uploaded in this repository (~July 2023)
+
 For any queries, feel free to send an email: ashish.ts.ireddy@yandex.ru
