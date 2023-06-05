@@ -4,18 +4,20 @@ This Repository houses the QUAD metrics adapted for process modelling toolkit Pr
 
 The Metrics are: 
 
-  **1. Replay Fitness**
-  **2. Precision**
-  **3. Generalization**
-  **4. Simplicity**
+  1. **Replay Fitness**
+  2. **Precision**
+  3. **Generalization**
+  4. **Simplicity**
 
 By evaluating a Process model with these metrics, we can  obtain a balanced perspective on the Complexity & Understandability of the model. 
 
 
-![Process Model Measurement](FLOW.png)
+![Process Model Measurement](ETC/FLOW.png)
 
+These Metrics are ready to use & are configured to run in Regime 1 & Regime 2 (Provided in the documentation).
 
-These Metrics are ready to use & are configured to run in Regime 1 & Regime 2 (Provided in the documentation) 
+On simulating these Metrics, a combined numeric graph can be generated as follows: 
+![The QUAD Metrics Visualized](ETC/OPR1.png)
 
 A link to ProFIT: https://github.com/itmo-escience/ProFIT
 
