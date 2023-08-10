@@ -11,6 +11,9 @@ The Metrics are:
 
 By evaluating a Process model with these metrics, we can  obtain a balanced perspective on the Complexity & Understandability of the model. 
 
+You can refer to the publications: 
+
+/href(https://www.mdpi.com/1999-4893/16/6/295)
 
 ![Process Model Measurement](ETC/FLOW.png)
 
