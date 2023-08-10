@@ -1,5 +1,3 @@
-The QUAD metrics for process modelling implemented on ProFIT & ready to measure process models of all bounds. 
-
 # The QUAD Metrics for Process Modelling
 
 This Repository houses the QUAD metrics adapted for process modelling toolkit ProFIT.
